@@ -18,5 +18,7 @@ public class App
         
         System.out.println("Modificado desde hub");
         
+        System.out.println("Modificado desde local");
+        
     }
 }
